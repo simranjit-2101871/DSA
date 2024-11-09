@@ -46,6 +46,7 @@ Selection Sort
 Merge Sort
 Quick Sort
 Stack
+
 This folder includes stack data structures and operations:
 
 Basic stack implementation
